@@ -1,4 +1,4 @@
-# Level 4 Final Exercisw: Simple Calculator with Functions
+# Level 4 Final Exercise: Simple Calculator with Functions
 #
 # Objective
 #
