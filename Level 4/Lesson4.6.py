@@ -21,7 +21,7 @@ def pessenger_on_titanic(pessenger_names, year):
 
 pessenger_on_titanic(pessengers, year)
 
-# C:\Python312\python.exe "F:/Уроки/Python2024/Lesson 4/Lesson4.6.py"
+# C:\Python312\python.exe "F:/Уроки/Python2024/Level 4/Lesson4.6.py"
 #
 # What is his name? Andrew
 # What is Andrew's age? 32
