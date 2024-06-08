@@ -78,4 +78,5 @@ print(allegiances)
 # {'Luke Skywalker': 'Galactic Empire', 'Dart Vader': 'Sith Order', 'Obi-Wan Kenobi': 'Jedi Order', 'Leia': 'Rebel Alliance'}
 
 for keys in allegiances:
-    print(f"The keys is {keys}")
+    print(f"The KEY is {keys}")
+    print("----------------")
