@@ -53,6 +53,7 @@ def keyword_search(keyword, logs):
 print(categories)
 categorize_issues(chat_logs)
 print(categories)
+print(categories)
 
 keyword = input('Enter the search keyword: ')
 print(keyword_search(keyword,chat_logs))
