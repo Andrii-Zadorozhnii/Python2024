@@ -48,6 +48,8 @@ def keyword_search(keyword, logs):
             results.append(log)
     return results
 
+
+
 print(categories)
 categorize_issues(chat_logs)
 print(categories)
