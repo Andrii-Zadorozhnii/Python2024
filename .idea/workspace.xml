@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4a4f4f7-6a79-4ef6-8d02-9907a32bf34e" name="Changes" comment="Commence Full Python Course deom Bogdan Stashchuk">
+    <list default="true" id="c4a4f4f7-6a79-4ef6-8d02-9907a32bf34e" name="Changes" comment="Commence Full Python Course">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Course/Lesson_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/New Course/Lesson_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,8 @@
     <MESSAGE value="__" />
     <MESSAGE value="Continue with Tj=kinter" />
     <MESSAGE value="Commence Full Python Course deom Bogdan Stashchuk" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commence Full Python Course deom Bogdan Stashchuk" />
+    <MESSAGE value="Commence Full Python Course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commence Full Python Course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -134,7 +136,7 @@
     <SUITE FILE_PATH="coverage/Python2024$Lesson8_4.coverage" NAME="Lesson8.4 Coverage Results" MODIFIED="1718079816170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 8" />
     <SUITE FILE_PATH="coverage/Python2024$Lesson8_1.coverage" NAME="Lesson8.1 Coverage Results" MODIFIED="1717994307744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 8" />
     <SUITE FILE_PATH="coverage/Python2024$Lesson6_2.coverage" NAME="Lesson6.2 Coverage Results" MODIFIED="1717506181137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 6 Logic" />
-    <SUITE FILE_PATH="coverage/Python2024$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1724681191609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/New Course" />
+    <SUITE FILE_PATH="coverage/Python2024$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1724736369214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/New Course" />
     <SUITE FILE_PATH="coverage/Python2024$Lesson6_5.coverage" NAME="Lesson6.5 Coverage Results" MODIFIED="1717645269677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 6 Logic" />
     <SUITE FILE_PATH="coverage/Python2024$Lesson_4.coverage" NAME="Lesson_4 Coverage Results" MODIFIED="1718259374400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zed A.Shaw - Pyhon 3 Course" />
     <SUITE FILE_PATH="coverage/Python2024$lesson3_4_Final_exercise.coverage" NAME="lesson3.4_Final_exercise Coverage Results" MODIFIED="1717163231323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 3" />

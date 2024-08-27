@@ -144,3 +144,94 @@ print(1 != 2)  # True
 
 # If...elif...else
 print('--------If...elif...else---------')
+# условныe операторы, которые позволяют выполнять код только при определенных условиях;
+
+if 3 > 2:
+    print('Its work!!')
+
+# если условие не True
+
+# Python имеет операторы elif и else:
+
+if 5 > 2:
+    print('5 is indeed greater than 2')
+else:
+    print('5 is not greater than 2')
+
+name = 'Sonja'
+
+if name == 'Ola':
+    print('Hey Ola!')
+elif name == 'Sonja':
+    print('Hey Sonja!')
+else:
+    print('Hey anonymous!')
+
+# Можно использовать сколько угодно elif после первого if.
+
+volume = 57
+
+if volume < 20:
+    print("It's kinda quiet.")
+elif 20 <= volume < 40:
+    print("It's nice for background music")
+elif 40 <= volume < 60:
+    print("Perfect, I can hear all the details")
+elif 60 <= volume < 80:
+    print("Nice for parties")
+elif 80 <= volume < 100:
+    print("A bit loud!")
+else:
+    print("My ears are hurting! :(")
+
+# Functions
+
+print('--------Functions---------')
+
+
+def hi():
+    print('Hi there!')
+    print('How are you?')
+
+
+hi()
+
+
+# Давай напишем нашу первую функцию с параметрами. Мы будем использовать предыдущий пример — функцию, которая пишет 'hi' и имя пользователя:
+
+def hi(name):
+    if name == 'Ola':
+        print('Hi Ola!')
+    elif name == 'Sonja':
+        print('Hi Sonja!')
+    else:
+        print('Hi anonymous!')
+
+
+hi("Ola")
+hi("Sonja")
+
+
+def hi(name):
+    print('Hi ' + name + '!')
+
+
+hi("Rachel")
+
+# Loops - Цицлы
+
+print('--------Loops---------')
+
+girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'You']
+
+
+def hi(name):
+    print('Hi ' + name + '!')
+
+
+for name in girls:
+    hi(name)
+    print('Next girl')
+
+for i in range(1, 6):
+    print(i)
