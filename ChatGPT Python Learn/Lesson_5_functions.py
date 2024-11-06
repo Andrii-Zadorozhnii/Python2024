@@ -71,9 +71,42 @@ print_info(name="Andrii", age=32, city="Saint Petersburg")
 #
 # Функция должна принимать одно число и возвращать его факториал, используя цикл while.
 # Если число отрицательное, функция должна возвращать сообщение: "Факториал для отрицательных чисел не определён."
+
 # Создай функцию is_even:
-#
 # Эта функция должна принимать одно число и возвращать True, если число четное, и False, если нечётное.
+
 # Напиши функцию sum_range:
 #
 # Функция должна принимать два числа start и end и возвращать сумму всех чисел в этом диапазоне, включая границы.
+
+
+number1 = int(input('Please write 1st number: '))
+number2 = int(input('Please write 2nd number: '))
+
+def factorial(number):
+    if number < 0:
+        return print("Факториал для отрицательных чисел не определён.")
+    elif number == 0:
+        result = 1
+    else:
+        result = 1
+        while number > 0:
+            result *= number
+            number -= 1
+    return print("Factorial number1 is:", result)
+
+def is_even(number):
+    if number % 2 == 0:
+        return print("Number is even? ", True)
+    else:
+        return print("Number is even? ", False)
+
+def sum_range(start, end):
+    result = 0
+    for number in range(start, end + 1):
+        result += number
+    return print(result)
+
+factorial(number1)
+is_even(number1)
+sum_range(number1, number2)
